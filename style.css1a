@@ -1,0 +1,18 @@
+body{
+    text-alagn: center;
+    font-family: Arial;
+    background-color: #222;
+    color:white;
+
+}
+img{
+    border-radius: 10px;
+    transition: 0.3s;
+
+}
+buttn{
+     margin: 10px;
+     padding: 10px 20px;
+     font-size:16px;
+
+}
