@@ -4,8 +4,8 @@ lampada.addEventListener("mouseover",acender);
 lampada.addEventListener("mouseout",apagar);
 
 function acender(){
-    lampada.src = "on.png";
-    document.body.style.background = "#ffeb3b22"
+    lampada.src = "flashbang-meme__1_-removebg-preview.png";
+    document.body.style.background = "#ffffffff"
 }
 function apagar(){
     lampada.src = "off.png";
