@@ -8,7 +8,7 @@ function acender(){
     document.body.style.background = "#ffffffff"
 }
 function apagar(){
-    lampada.src = "off.png";
-    document.body.style.background = "#222"
+    lampada.src = "download-removebg-preview.png";
+    document.body.style.background = "#000000ff"
 
 }
